@@ -2,7 +2,7 @@
 <h3 align="center">Education Enthusiast | Full-Stack Developer | Tech Explorer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=novanandreans&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHUOg6o1lLg-g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1680339988909?e=2147483647&v=beta&t=8Xac1c4lHJg2qBe8UcAgV9lmzrjNTkkwd4Yifv0rYW4" alt="Profile views" />
 </p>
 
 ---
